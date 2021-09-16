@@ -2,7 +2,7 @@
 
 R code associated with *Sex-dependent gene co-expression in the human body*.
 
-An RDS file containing the permutations of sex-bias over all tested tissues.
+RDS files containing the permutations of sex-bias over all tested tissues. One that contains genes co-expressed more strongly in females (designated "Genelist per permutation by tissue female.RDS") and one with genes co-expressed more strongly in males (designated "Genelist per permutation by tissue male.RDS").
 
 
 # By:
