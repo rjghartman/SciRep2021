@@ -1,9 +1,9 @@
-# SciRep2021
+# Sex-dependent gene co-expression in the human body
 
 R code associated with *Sex-dependent gene co-expression in the human body*
 
 
-By:
+# By:
 
 Robin J.G. Hartman(1), MSc; Michal Mokry(1,2), MD PhD; Gerard Pasterkamp(2), MD PhD; Hester M. den Ruijter(1), PhD
 
