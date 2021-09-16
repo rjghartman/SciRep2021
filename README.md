@@ -1,6 +1,8 @@
 # Sex-dependent gene co-expression in the human body
 
-R code associated with *Sex-dependent gene co-expression in the human body*
+R code associated with *Sex-dependent gene co-expression in the human body*.
+
+An RDS file containing the permutations of sex-bias over all tested tissues.
 
 
 # By:
